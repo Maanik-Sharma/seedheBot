@@ -1,0 +1,14 @@
+streamlit
+langchain
+langchain-community
+langchain-google-genai
+google-generativeai
+faiss-cpu
+sentence-transformers
+python-dotenv
+unstructured
+beautifulsoup4
+html5lib
+lxml
+pypdf
+pillow

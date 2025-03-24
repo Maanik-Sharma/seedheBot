@@ -1,0 +1,14 @@
+# Ignore environment and log files
+venv/
+.env
+
+# Ignore debug logs
+equitybot_debug.log
+
+# Ignore model/store files
+faiss_store_gemini.pkl
+
+# Ignore readme (only if you really don't want to push it)
+readme
+
+seedhe_Bot_debug.log
